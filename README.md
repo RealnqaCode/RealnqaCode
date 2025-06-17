@@ -36,7 +36,7 @@
   <a href="https://linkedin.com/in/hasanmert37" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-1B1F23?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.com/users/realnqa" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.gg/7fbe4cQY" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-1B1F23?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
