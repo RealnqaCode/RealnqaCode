@@ -1,4 +1,4 @@
-# Merhaba! Ben Hasan Mert 👋
+# Merhaba! Ben Hasan 👋
 
 <div align="center" style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem;">
   <!-- GitHub İstatistikleri - Koyu Temalı -->
